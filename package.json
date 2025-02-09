@@ -11,5 +11,11 @@
   "description": "",
   "dependencies": {
     "aws-sdk": "^2.1692.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   }
 }
