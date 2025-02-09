@@ -1,9 +1,9 @@
-# GUIDE
+
 
 ## Install
 
 ```bash
-npm install
+bun install
 ```
 
 ## Create Table
